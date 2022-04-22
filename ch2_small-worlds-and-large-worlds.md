@@ -1,19 +1,8 @@
 Chapter 2. Small Worlds and Large Worlds
 ================
 
-  - all models contain a “small world” and a "large world
-      - the small world is the self-contained logical world of the model
-      - the large world is the broader context in which one deploys a
-        model
-  - Bayesian models learn from evidence that is optimal in the small
-    world and must be demonstrated to perform well in the large world
-  - this chapter focuses on the small world
-
 ## 2.1 The garden of forking data
 
-  - this chapter is designed to build Bayesian inference from the group
-    up
-      - it’s really just counting and comparing possibilities
   - Bayesian inference works by considering everything that could have
     happened given the data
 
